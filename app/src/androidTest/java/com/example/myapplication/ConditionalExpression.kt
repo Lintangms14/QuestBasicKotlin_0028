@@ -11,9 +11,9 @@ fun ConditionalStatment() {
     //If-Else
     val number = 10
     if (number > 0) {
-        println("Angka Positif broww")
+        println("Positive Number")
     } else {
-        println("Angka Negatif broww")
+        println("Negative Number    ")
     }
 
     // When
